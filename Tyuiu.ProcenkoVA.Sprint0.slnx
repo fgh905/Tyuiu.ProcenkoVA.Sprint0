@@ -1,5 +1,8 @@
 <Solution>
-  <Folder Name="/tusk0/">
-    <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task0.V0/Tyuiu.ProcenkoVA.Sprint0.Task0.V0.csproj" />
+  <Folder Name="/task0/">
+    <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task0.V0/Tyuiu.ProcenkoVA.Sprint0.Task0.V0.csproj" Id="90c07492-a775-4f10-b226-b2ec791c6468" />
+  </Folder>
+  <Folder Name="/task1/">
+    <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task1.V0/Tyuiu.ProcenkoVA.Sprint0.Task1.V0.csproj" Id="7706667d-ba41-4a41-a458-8c599d863682" />
   </Folder>
 </Solution>
