@@ -5,4 +5,14 @@
   <Folder Name="/task1/">
     <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task1.V0/Tyuiu.ProcenkoVA.Sprint0.Task1.V0.csproj" Id="7706667d-ba41-4a41-a458-8c599d863682" />
   </Folder>
+  <Folder Name="/task2/">
+    <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task2.V0.Lib/Tyuiu.ProcenkoVA.Sprint0.Task2.V0.Lib.csproj" Id="4dd5befd-82ea-4323-b869-7b89e619f1dc" />
+    <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task2.V0.Test/Tyuiu.ProcenkoVA.Sprint0.Task2.V0.Test.csproj" Id="e0f85721-71b0-4bec-9638-d83fd5bb7a1a" />
+    <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task2.V0/Tyuiu.ProcenkoVA.Sprint0.Task2.V0.csproj" Id="cbf434d1-5921-4de0-bc71-aebc0d4ad624" />
+  </Folder>
+  <Folder Name="/task3/">
+    <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task3.V0.Lib/Tyuiu.ProcenkoVA.Sprint0.Task3.V0.Lib.csproj" Id="a7aec447-14c8-4843-9b86-34654b8fab0b" />
+    <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task3.V0.Test/Tyuiu.ProcenkoVA.Sprint0.Task3.V0.Test.csproj" Id="81d8ca50-08ff-429d-93df-8f7fc0b61d34" />
+    <Project Path="Tyuiu.ProcenkoVA.Sprint0.Task3.V0/Tyuiu.ProcenkoVA.Sprint0.Task3.V0.csproj" Id="dd197c7b-68a5-4db4-8d26-80aea3075464" />
+  </Folder>
 </Solution>
